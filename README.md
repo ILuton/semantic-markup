@@ -7,3 +7,5 @@
 - This project allowed me to learn new techniques to improve on my website opitimization.
 
 ## Usage 
+
+- The following is the link to the refactored Horiseon homepage: https://iluton.github.io/semantic-markup/
